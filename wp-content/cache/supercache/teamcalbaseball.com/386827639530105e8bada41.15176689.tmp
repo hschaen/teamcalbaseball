@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Home | Team California Baseball</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://teamcalbaseball.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://teamcalbaseball.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Home - Team California Baseball" />
+<meta property="og:description" content="thiis" />
+<meta property="og:url" content="http://teamcalbaseball.com/" />
+<meta property="og:site_name" content="Team California Baseball" />
+<meta property="article:published_time" content="2014-01-27T20:29:42+00:00" />
+<meta property="article:modified_time" content="2014-02-04T20:41:56+00:00" />
+<meta property="og:image" content="http://teamcalbaseball.com/wp-content/uploads/2014/01/sampleHeader2.png" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@teamcalbaseball"/>
+<meta name="twitter:domain" content="Team California Baseball"/>
+<meta name="twitter:creator" content="@teamcalbaseball"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Team California Baseball &raquo; Feed" href="http://teamcalbaseball.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Team California Baseball &raquo; Comments Feed" href="http://teamcalbaseball.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Team California Baseball &raquo; Home Comments Feed" href="http://teamcalbaseball.com/index/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://teamcalbaseball.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='symple_shortcode_styles-css'  href='http://teamcalbaseball.com/wp-content/plugins/symple-shortcodes/includes/css/symple_shortcodes_styles.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/genericons/genericons.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/style.css?ver=3.8.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://teamcalbaseball.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://teamcalbaseball.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.1" />
+<link rel='shortlink' href='http://teamcalbaseball.com/?p=36' />
+		<style>span>iframe{
+			max-width:none !important;
+		}     
+		</style>
+			<link rel="stylesheet" href="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/styles/fonts.css" type="text/css">
+	<link rel="stylesheet" href="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/styles/jquery.bxslider.css" type="text/css">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+	<link rel="stylesheet/less" href="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/less/tcb.less" type="text/css">
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+	<script src="http://cdn.kendostatic.com/2013.3.1119/js/kendo.web.min.js"></script>
+	<script src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/js/less-1.6.1.min.js"></script>
+	<script src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/js/jquery.bxslider.min.js"></script>
+	<script src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/js/jquery.marquee.min.js"></script>
+	<script>
+	$(document).ready(function() {
+		$('.marquee').marquee({
+		  duration: 10000,
+		   pauseOnHover: true,
+		});
+		$('.sponsors').bxSlider({
+			minSlides:  4,
+			slideWidth: 210,
+		});
+	});
+	</script>
+</head>
+
+<body class="home page page-id-36 page-template page-template-page-templatespage-main-php masthead-fixed full-width footer-widgets grid">
+	<div class="container">
+		<header>
+			<div class="pageTitle">
+				<h1>Team California Baseball</h1>
+			</div>
+						<div id="headerImage"><img src="/wp-content/themes/teamcalbaseball/images/headerImage2.png"></div>
+						<div class="twitterLink"><a href="https://twitter.com/teamcalbaseball" target="_blank"><img src="/wp-content/themes/teamcalbaseball/images/twitterLink.png"></a></div>
+		</header>
+		<section id="ticker">
+				<div class="row">
+			<div class="col-lg-12">
+				<div class="marquee">
+								<div class="playerScroll">
+					<a href="http://www.cuieagles.com/sport/0/1.php" target="_blank"><p>MIKE MARTINEZ</p>
+					<p>2014 - EASTLAKE HS</p>
+					<p>PITCHER/1ST BASE</p>
+					<p>CONCORDIA UNIVERSITY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.nevadawolfpack.com/sports/m-basebl/unv-m-basebl-body.html" target="_blank"><p>JORDAN PEARCE</p>
+					<p>2014 - EL CAMINO HS</p>
+					<p>3RD BASE</p>
+					<p>UNIVERSITY OF NEVADA RENO</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.baylorbears.com/sports/m-basebl/" target="_blank"><p>HUDSON PEARSON</p>
+					<p>2014 - EASTLAKE HS</p>
+					<p>PITCHER</p>
+					<p>BAYLOR UNIVERSITY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.usfdons.com/index.aspx?path=baseball" target="_blank"><p>AARON PING</p>
+					<p>2014 - PATRICK HENRY HS</p>
+					<p>INFIELD</p>
+					<p>UNIVERSITY OF SAN FRANCISCO</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.oit.edu/athletics/mens-sports/baseball" target="_blank"><p>JOHN SCHULZ</p>
+					<p>2014 - CALVARY CHRISTIAN HS</p>
+					<p>PITCHER</p>
+					<p>OREGON INSTITUTE OF TECHNOLOGY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.gomatadors.com/sports/m-basebl/index" target="_blank"><p>DREW WESTON</p>
+					<p>2014 - SAN MARCOS HS</p>
+					<p>PITCHER</p>
+					<p>CAL STATE NORTHRIDGE</p>
+				</div>
+				<div class="playerScroll">
+					<a href="http://goaztecs.cstv.com/sports/m-basebl/sdsu-m-basebl-body.html" target="_blank"><p>MATT WEZNIAK</p>
+					<p>2014 CARLSBAD HS</p>
+					<p>INFIELD</p>
+					<p>SAN DIEGO STATE UNIVERSITY</p>
+				</a>
+				</div>				<div class="playerScroll">
+					<a href="http://www.hokiesports.com/baseball/players/anderson_nick.html" target="_blank"><p>NICK ANDERSON</p>
+					<p>2013 - CARLSBAD HS</p>
+					<p>OUTFIELD</p>
+					<p>VIRGINIA TECH</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.milb.com/milb/stats/stats.jsp?sid=milb&t=p_pbp&pid=641334" target="_blank"><p>MATT BALL</p>
+					<p>2013 - BONITA VISTA HS</p>
+					<p>PITCHER - LONG BEACH STATE</p>
+					<p>DRAFTED 10TH RD CHICAGO WHITE SOX (SIGNED)</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://goaztecs.cstv.com/sports/m-basebl/mtt/andrew_brown_865856.html" target="_blank"><p>ANDY BROWN</p>
+					<p>2013 - THE ROCK ACADEMY HS</p>
+					<p>SHORTSTOP</p>
+					<p>SAN DIEGO STATE UNIVERSITY</p></a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.csusmcougars.com/roster.aspx?rp_id=2240" target="_blank"><p>NOAH BUCHANAN</p>
+					<p>2013 - GROSSMONT HS</p>
+					<p>OUTFIELD</p>
+					<p>CAL STATE SAN MARCOS</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://usdtoreros.cstv.com/sports/m-basebl/mtt/cj_burdick_881275.html" target="_blank"><p>CJ BURDICK</p>
+					<p>2013 - SERRA HS</p>
+					<p>PITCHER</p>
+					<p>UNIVERSITY OF SAN DIEGO</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://rccathletics.com/sports/bsb/2013-14/bios/devries_josh_gh7b" target="_blank"><p>JOSH DEVRIES</p>
+					<p>2013 - CAPISTRANO VALLEY HS</p>
+					<p>PITCHER</p>
+					<p>RIVERSIDE COMMUNITY COLLEGE</p></a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.gostanford.com/ViewArticle.dbml?ATCLID=209370499&DB_OEM_ID=30600" target="_blank"><p>TOMMY EDMAN</p>
+					<p>2013 - LJCDS</p>
+					<p>SHORTSTOP</p>
+					<p>STANFORD UNIVERSITY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.sgucavaliers.com/roster/11/3/1481.php" target="_blank"><p>DAVID FLORES</p>
+					<p>2013 - CALVARY CHRISTIAN HS</p>
+					<p>PITCHER</p>
+					<p>ST. GREGORY'S UNIVERSITY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.plnusealions.com/roster.aspx?rp_id=1721&path=baseball" target="_blank"><p>RYAN GARCIA</p>
+					<p>2013 - EL CAMINO HS</p>
+					<p>1ST BASE</p>
+					<p>POINT LOMA NAZARENE UNIVERSITY</p>
+				</a>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.ucirvinesports.com/sports/m-basebl/2013-14/bios/guenette_alex_8xac" target="_blank"><p>ALEX GUENETTE</p>
+					<p>2013 - LJCDS</p>
+					<p>CATCHER</p>
+					<p>UC IRVINE</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://utahutes.cstv.com/sports/m-basebl/mtt/dustin_hughes_863278.html" target="_blank"><p>DUSTIN HUGHES</p>
+					<p>2013 - LJCDS</p>
+					<p>PITCHER</p>
+					<p>UNIVERSITY OF UTAH</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.plnusealions.com/roster.aspx?rp_id=1723" target="_blank"><p>MATT JERVIS</p>
+					<p>2013 - RANCHO BERNARDO HS</p>
+					<p>SHORTSTOP</p>
+					<p>POINT LOMA NAZARENE UNIVERSITY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="https://www.gopoly.com/sports/bsb/2013-14/bios/lee_slater_sppl" target="_blank"><p>SLATER LEE</p>
+					<p>2013 - CARLSBAD HS</p>
+					<p>PITCHER</p>
+					<p>CAL POLY SAN LUIS OBISPO</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.cmsathletics.org/sports/bsb/2013-14/bios/l-esperance_james_b8gw" target="_blank"><p>JAMES L'ESPERANCE</p>
+					<p>2013 - EASTLAKE HS</p>
+					<p>OUTFIELD</p>
+					<p>CLAREMONT COLLEGE</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.centralaz.edu/home/athletics/teams/baseball.htm" target="_blank"><p>DEANDRE SIMPSON</p>
+					<p>2013 - THE ROCK ACADEMY HS</p>
+					<p>PITCHER</p>
+					<p>CENTRAL ARIZONA COMMUNITY COLLEGE</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://gocugo.com/roster.aspx?path=baseball&rp_id=1637" target="_blank"><p>ADAM TAYLOR</p>
+					<p>2013 - THE ROCK ACADEMY HS</p>
+					<p>UTILITY</p>
+					<p>CONCORDIA UNIVERSITY</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="https://www.masters.edu/athletics/menssports/baseball/roster.aspx" target="_blank"><p>CALEB WHITLEY</p>
+					<p>2013 - CALVARY CHRISTIAN HS</p>
+					<p>CATCHER</p>
+					<p>MASTERS COLLEGE</p>
+				</a>
+				</div>
+												<div class="playerScroll">
+					<a target="_blank" href="http://www.milb.com/milb/stats/stats.jsp?sid=milb&t=p_pbp&pid=622049"><p>SAM AYALA</p>
+					<p>2012 - LJCDS</p>
+					<p>CATCHER - UC SANTA BARBARA</p>
+					<p>DRAFTED 17TH RD CHICAGO WHITE SOX (SIGNED)</p></a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://webapps.westmont.edu/cgi-bin/WebObjects/sportsData.woa/1/wo/DGQb83Mwxqlz2zv1jiywTw/0.1.2.1.18.24.2.0.0" target="_blank"><p>RUSSELL HARMENING</p>
+					<p>2012 - CALVARY CHRISTIAN HS</p>
+					<p>PITCHER</p>
+					<p>WESTMONT COLLEGE</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="https://www.masters.edu/athletics/menssports/baseball/roster.aspx" target="_blank"><p>COLLIN NYENHUIS</p>
+					<p>2012 - VISTA HS</p>
+					<p>3RD BASE</p>
+					<p>MASTERS COLLEGE</p>
+				</a>
+				</div>
+				<div class="playerScroll">
+					<a href="http://www.sdmesa.edu/students/athletics/sports/baseball/roster/" target="_blank"><p>KYLE HARRIS</p>
+					<p>2012 - CHRISTIAN HS</p>
+					<p>OUTFIELD</p>
+					<p>MESA COLLEGE</p>
+				</a>
+				</div>				
+			</div>
+		<!-- <div class="popout">
+			<a class="button" href="#" onclick="javascript:void window.open('http://harrisonschaen.com/teamcalbaseball/ticker/','tickerWindow','width=990,height=110,toolbar=0,menubar=0,location=0,status=0,scrollbars=0,resizable=0,left=0,top=0');return false;">
+
+				Popout
+
+			</a>
+				</div>-->
+			</div>
+		</div> 
+		</section>
+		<nav id="primary-navigation" class="site-navigation primary-navigation tcbNav" role="navigation">
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu tcbNav"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-32"><a href="/">Home</a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-252"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://teamcalbaseball.com/about/">Mission Statement</a></li>
+	<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://teamcalbaseball.com/about/staff/">Staff</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://teamcalbaseball.com/about/partners/">Partners</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://teamcalbaseball.com/about/resources/">Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://teamcalbaseball.com/alumni/">Alumni</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-74"><a href="http://teamcalbaseball.com/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://teamcalbaseball.com/events/tournaments/">Tournaments</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://teamcalbaseball.com/events/showcases/">Showcases</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://teamcalbaseball.com/events/college-team-camps/">College Team Camps</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://teamcalbaseball.com/events/perfect-game-so-cal-league/">Perfect Game Socal League</a></li>
+</ul>
+</li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-132"><a href="http://teamcalbaseball.com/prospects/">Prospects</a>
+<ul class="sub-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161"><a target="_blank" href="http://web1.ncaa.org/ECWR2/NCAA_EMS/NCAA_EMS.html#">Clearinghouse</a></li>
+</ul>
+</li>
+<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-251"><a href="#">Teams</a>
+<ul class="sub-menu">
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://teamcalbaseball.com/teams/san-diego/">San Diego</a></li>
+	<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://teamcalbaseball.com/teams/orange-county/">Orange County</a></li>
+	<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://teamcalbaseball.com/teams/los-angeles/">Los Angeles</a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://teamcalbaseball.com/teams/valley/">Valley</a></li>
+</ul>
+</li>
+<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="http://teamcalbaseball.com/perfect-game-all-tournament-teams/">Perfect Game All-Tournament Teams</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-406"><a href="http://teamcalbaseball.com/schedule/">Schedule</a>
+<ul class="sub-menu">
+	<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://teamcalbaseball.com/schedule/workout/">Workout</a></li>
+	<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a target="_blank" href="http://teamcalbaseball.com/schedule/game/">Game</a></li>
+</ul>
+</li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://teamcalbaseball.com/team-store/">Team Store</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://teamcalbaseball.com/contact/">Contact</a></li>
+</ul></div>		</nav><article>
+	<section id="featuredNews">
+		<div class="slider">
+			<!-- meta slider -->
+<div style="max-width: 480px; margin: 0 auto;" class="metaslider metaslider-flex metaslider-83 ml-slider nav-hidden">
+    
+    <div id="metaslider_container_83">
+        <div id="metaslider_83" class="flexslider">
+            <ul class="slides">
+                <li style="display: none;"><a href="http://teamcalbaseball.com/wp-admin/post.php?post=347&action=edit" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/Tommy-Stanford3.jpg" height="360" width="480" class="slider-83 slide-369" /></a><div class="caption-wrap"><div class="caption">TOMMY EDMAN TO START AGAINST RICE UNIVERSITY FOR #25 STANFORD UNIVERSITY</div></div></li>
+                <li style="display: none;"><a href="http://teamcalbaseball.com/slater-lee-named-saturday-starting-pitcher-cal-poly-slo/" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/Slater-Cal-Poly3.jpg" height="360" width="480" class="slider-83 slide-370" /></a><div class="caption-wrap"><div class="caption">SLATER LEE NAMED SATURDAY STARTER</div></div></li>
+                <li style="display: none;"><a href="http://teamcalbaseball.com/harmening-shuts-biola-goes-3-1-season/" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/Russell-Westmont3.jpg" height="360" width="480" class="slider-83 slide-371" /></a><div class="caption-wrap"><div class="caption">RUSSELL HARMENING SHUTS OUT BIOLA AND GOES TO 3-1</div></div></li>
+                <li style="display: none;"><a href="http://harrisonschaen.com/teamcalbaseball/team-cali-not-ready-for-final-adios/" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/pitcher2.png" height="360" width="480" class="slider-83 slide-198" /></a><div class="caption-wrap"><div class="caption">GLENDALE, Ariz. – This is it for most of the high school seniors. This is their swan-song, their last hoorah, their final “adios amigo.”</div></div></li>
+                <li style="display: none;"><a href="http://harrisonschaen.com/teamcalbaseball/2014-perfect-game-mlk-all-tournament-teams/" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/download_20140126_210649-480x360.jpg" height="360" width="480" class="slider-83 slide-166" /></a><div class="caption-wrap"><div class="caption">2014 PERFECT GAME MLK ALL-TOURNAMENT TEAMS</div></div></li>
+                <li style="display: none;"><a href="http://harrisonschaen.com/teamcalbaseball/open-tryout-sunday-feb-9/" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/IMG_20131109_103609-480x360.jpg" height="360" width="480" class="slider-83 slide-194" /></a><div class="caption-wrap"><div class="caption">Team California Tryouts</div></div></li>
+                <li style="display: none;"><a href="http://teamcalbaseball.com/wp-admin/post.php?post=276&action=edit" target="_self"><img src="http://teamcalbaseball.com/wp-content/uploads/2014/02/download_20140126_210647-480x360.jpg" height="360" width="480" class="slider-83 slide-165" /></a><div class="caption-wrap"><div class="caption">Team California Warriors '14</div></div></li>
+            </ul>
+        </div>
+        
+    </div>
+    <script type="text/javascript">
+        var metaslider_83 = function($) {
+            $('#metaslider_83').flexslider({ 
+                slideshowSpeed:3000,
+                animation:"fade",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"<",
+                nextText:">",
+                easing:"linear",
+                slideshow:true,
+                useCSS:false
+            });
+        };
+        var timer_metaslider_83 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_83, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_83, 100) : metaslider_83(window.jQuery);
+        };
+        timer_metaslider_83();
+    </script>
+</div>
+<!--// meta slider-->		</div>
+		<div class="featuredNewsAds">
+			<ul class="featuredNewsAds">
+				<li class="ad1"><a href="http://perfectgame.org/" alt="PerfectGame.org"><img title="PerfectGame.com" alt="Perfect Game" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/perfectGame.png" height="auto" width="100%"></a></li>
+				<li class="ad1"><a href="http://emspeedtraining.com/" alt="emspeedtraining.org"><img title="emspeedtraining.com" alt="EM Speed and Power" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/em.png" height="auto" width="100%"></a></li>
+			</ul>
+		</div>
+		<div class="featuredNews">
+			<ul>
+									<li>
+					    <a href="http://teamcalbaseball.com/slater-lee-beats-kansas-state/">SLATER LEE BEATS KANSAS STATE</a>
+					</li>
+										<li>
+					    <a href="http://teamcalbaseball.com/harmening-shuts-biola-goes-3-1-season/">HARMENING SHUTS OUT BIOLA AND GOES TO 3-1 ON SEASON</a>
+					</li>
+										<li>
+					    <a href="http://teamcalbaseball.com/tommy-edman-start-rice-university-25-stanford-university/">TOMMY EDMAN TO START AGAINST RICE UNIVERSITY FOR #25 STANFORD UNIVERSITY</a>
+					</li>
+										<li>
+					    <a href="http://teamcalbaseball.com/slater-lee-named-saturday-starting-pitcher-cal-poly-slo/">SLATER LEE IN THE OPENING ROTATION AGAINST KANSAS STATE FOR CAL POLY &#8211; SLO</a>
+					</li>
+								</ul>
+		</div>
+
+	</section>
+	<section class="adSpace break">
+		<a class="button" href="/signup/">Qualify for a Tryout</a>
+	</section>
+	<section id="blogArea">
+		<ul class="blogArea">
+						<li>
+				<a href="http://teamcalbaseball.com/slater-lee-beats-kansas-state/">
+					<div class="blogBoxOuter">
+						<div class="blogBoxInner">
+													</div>
+						<p><p>Lee&#8217;s Win Clinches Series against Kansas St. FINAL 1 2 3 4 5 6 7 8 9 R H E Kansas State (0-2) 0 0 0 1 0 0 0 0 1 2 5 1 Cal Poly (2-0) 0 0 0 0 0 3 0 2 X 5 12 0 @ San Luis Obispo, CA | [&hellip;]</p>
+</p>
+						<a class="button" href="http://teamcalbaseball.com/slater-lee-beats-kansas-state/">Read More</a>
+					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://teamcalbaseball.com/harmening-shuts-biola-goes-3-1-season/">
+					<div class="blogBoxOuter">
+						<div class="blogBoxInner">
+							<img width="400" height="372" src="http://teamcalbaseball.com/wp-content/uploads/2014/02/Russell-Westmont-400x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="RUSSELL HARMENING SHUTS OUT BIOLA AND GOES TO 3-1" />						</div>
+						<p><p>Warriors Split Doubleheader with Eagles Submitted by: Ron Smith &#8211; February 1st, 2014 Sophomore right-hander Russell Harmening pitched eight scoreless innings in the first game of a doubleheader as Westmont (3-5, 1-5 GSAC) claimed its first Golden State Athletic Conference victory of the season, defeating the Eagles of Biola (3-5, 2-4) by a score of [&hellip;]</p>
+</p>
+						<a class="button" href="http://teamcalbaseball.com/harmening-shuts-biola-goes-3-1-season/">Read More</a>
+					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://teamcalbaseball.com/tommy-edman-start-rice-university-25-stanford-university/">
+					<div class="blogBoxOuter">
+						<div class="blogBoxInner">
+							<img width="142" height="200" src="http://teamcalbaseball.com/wp-content/uploads/2014/02/Tommy-Stanford.jpg" class="attachment-post-thumbnail wp-post-image" alt="TOMMY EDMAN TO START AGAINST RICE UNIVERSITY FOR #25 STANFORD UNIVERSITY" />						</div>
+						<p><p>Tommy Edman &#8211; 2013 LJCDS -  True Freshman from San Diego&#8217;s La Jolla Country Day School will be in the Starting Lineup this weekend against the #20 Ranked Rice Owls. Edman Won the Starting 2nd base Job after a very competitive Fall and is expected to contribute immediately.</p>
+</p>
+						<a class="button" href="http://teamcalbaseball.com/tommy-edman-start-rice-university-25-stanford-university/">Read More</a>
+					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://teamcalbaseball.com/slater-lee-named-saturday-starting-pitcher-cal-poly-slo/">
+					<div class="blogBoxOuter">
+						<div class="blogBoxInner">
+							<img width="143" height="200" src="http://teamcalbaseball.com/wp-content/uploads/2014/02/Slater-Cal-Poly.jpg" class="attachment-post-thumbnail wp-post-image" alt="Slater Lee Named Saturday Starter" />						</div>
+						<p><p>Slater Lee &#8211; 2013 RHP Carlsbad HS &#8211; has been named the &#8220;Saturday&#8221; Starter for Cal Poly &#8211; SLO against Kansas State for the 2014 Season.  Lee is one of the 2013 Team California Class that will make an impact on the 2014 Collegiate Season.</p>
+</p>
+						<a class="button" href="http://teamcalbaseball.com/slater-lee-named-saturday-starting-pitcher-cal-poly-slo/">Read More</a>
+					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://teamcalbaseball.com/team-cali-not-ready-for-final-adios/">
+					<div class="blogBoxOuter">
+						<div class="blogBoxInner">
+							<img width="672" height="372" src="http://teamcalbaseball.com/wp-content/uploads/2014/02/SPIERS_warrior_ft2-672x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="SPIERS_warrior_ft" />						</div>
+						<p><p>GLENDALE, Ariz. – This is it for most of the high school seniors. This is their swan-song, their last hoorah, their final “adios amigo.”</p>
+</p>
+						<a class="button" href="http://teamcalbaseball.com/team-cali-not-ready-for-final-adios/">Read More</a>
+					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://teamcalbaseball.com/open-tryout-sunday-feb-9/">
+					<div class="blogBoxOuter">
+						<div class="blogBoxInner">
+							<img width="530" height="372" src="http://teamcalbaseball.com/wp-content/uploads/2014/02/IMG_20131109_103609-530x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="Team California Tryouts" />						</div>
+						<p><p>Team California Baseball  Pre-HS Tryout Grad Classes 2018 &#8211; 2019 Tuesday February 26 6PM &#8211; 8PM &#8211; Check-In 5:30PM UCSD &#8211; TRITON BALLPARK 3432 Voigt Drive La Jolla, CA 92093                                                     [&hellip;]</p>
+</p>
+						<a class="button" href="http://teamcalbaseball.com/open-tryout-sunday-feb-9/">Read More</a>
+					</div>
+				</a>
+			</li>
+					</ul>
+
+		<ul class="adSpace">
+			<li class="ad1"><a href="http://usabaseball.com/" alt="usabaseball.com"><img title="usabaseball.com" alt="USA Baseball" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/USA-Baseball1.gif" height="auto" width="100%"></a></li>
+			<li class="ad1"><a href="http://fieldlevel.com/" alt="fieldlevel.com"><img title="fieldlevel.com" alt="Field Level" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/fieldLevel.png" height="auto" width="100%"></a></li>
+			</ul>
+	</section>
+	<section class="adSpace break">
+		
+	</section>
+	<section id="signUp">
+		<a name="tryout"></a>
+			<div class="row formOver">
+				<div class="col-lg-12">
+					<img class="tcbText" src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/images/teamCalBaseball.png" alt="Team California Baseball" title="Sign Up to Tryout for Team California">
+					<h4>Tryout Signup</h4>
+					<p><a href="/teamcalbaseball/signup" class="button">Click Here to Get Started</a></p>
+				</div>
+			</div>
+		<img class="backgroundImg" src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/images/jandnatestanford.jpg"  class="signUpFormImg">
+	</section>
+	<section class="adSpace break">
+		<a class="button" href="/signup/">Qualify for a Tryout</a>
+	</section>
+	<section id="sponsorsScroller">
+		<ul class="sponsors">
+	<li>
+		<a href="http://Perfectgame.org" target="_blank">
+			<img class="size-thumbnail wp-image-143" alt="perfectGame" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/perfectGame-150x49.png" width="150" height="49" />
+		</a>
+	</li>
+	<li>
+		<a href="http://www.azfallclassic.com" target="_blank">
+			<img class="size-full wp-image-137" alt="azclassicbaseball" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/azclassicbaseball.png" width="133" height="115" />
+		</a>
+	</li>
+	<li>
+		<a href="http://Fieldlevel.com" target="_blank">
+			<img class="aligncenter size-full wp-image-141" alt="fieldLevel" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/fieldLevel.png" width="150" height="61" />
+		</a>
+	</li>
+	<li>
+		<a href="http://usabaseball.com/" target="_blank">
+			<img class="aligncenter size-thumbnail wp-image-144" alt="USA-Baseball1" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/USA-Baseball1-150x150.gif" width="150" height="150" />
+		</a>
+	</li>
+	<li>
+		<a href="http://Teamonebaseball.com" target="_blank">
+			<img class="size-thumbnail wp-image-139" alt="baseballFactory2" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/baseballFactory2-150x71.png" width="150" height="71" />
+		</a>
+	</li>
+	<li>
+		<a href="http://usabf.com/" target="_blank">
+		<img class="size-thumbnail wp-image-138" alt="usabf" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/usabf-150x150.png" width="150" height="150" />
+		</a>
+	</li>
+	<li>
+		<a href="http://emspeedtraining.com/" target="_blank">
+			<img class=" size-thumbnail wp-image-142" alt="em" src="http://harrisonschaen.com/teamcalbaseball/wp-content/uploads/2014/02/em-150x144.png" width="150" height="144" />
+			</em></strong>
+		</a>
+	</li>
+	
+</ul>
+	</section>
+	<section>
+			</section>
+</article>
+		<footer id="colophon" class="site-footer container" role="contentinfo">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="foot pull-left"><img src="http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/images/tcblogo.png"></div>
+					<div class="foot pull-left"><h2><a href="/teamcalbaseball/">Home</h2><h2><a href="/teamcalbaseball/about">About</a></h2><ul><li><a href="/teamcalbaseball/about/">Mission</a></li><li><a href="/teamcalbaseball/about/staff">Staff</a></li><li><a href="/teamcalbaseball/about/partners">Partners</a></li><li><a href="/teamcalbaseball/about/resources">Resources</a></li></ul><h2><a href="/teamcalbaseball/alumni">Alumni</a></h2></div>
+					<div class="foot pull-left"><h2><a href="/teamcalbaseball/events/">Events</a></h2><h2>Teams</h2><ul><li><a href="/teamcalbaseball/teams/san-diego/">San Diego</a></li><li><a href="/teamcalbaseball/teams/orange-county/">Orange County</a></li><li><a href="/teamcalbaseball/teams/los-angeles/">Los Angeles</a></li><li><a href="/teamcalbaseball/teams/valley/">Valley</a></li></ul></div>
+					<div class="foot pull-left"><h2><a href="/teamcalbaseball/contact/">Contact</a></h2><ul><li><p>Team California Baseball</p><p>PO Box 131406<p>(760) 994-9114</p><p>teamcalbaseball.com</p><p class="designedBy"><a href="http://www.harrisonschaen.com" alt="Designed and Developed by Harrison Schaen">Site by Harrison Schaen</a></p></div>
+				</div>
+			</div>
+		</footer><!-- #colophon -->
+	</div><!-- end Container-->
+
+	<link rel='stylesheet' id='metaslider-flex-slider-css'  href='http://teamcalbaseball.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=2.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='metaslider-public-css'  href='http://teamcalbaseball.com/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=2.6.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.48.0-2013.12.28'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/teamcalbaseball.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7'></script>
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=2.1.05'></script>
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-content/themes/teamcalbaseball/js/functions.js?ver=20131209'></script>
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js?ver=2.6.3'></script>
+<script type='text/javascript' src='http://teamcalbaseball.com/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=2.6.3'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 3.639 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-02-16 18:39:36 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

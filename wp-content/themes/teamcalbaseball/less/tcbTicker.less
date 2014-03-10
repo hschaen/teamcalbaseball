@@ -1,0 +1,282 @@
+@bgColor: #000036;
+@accentColor: #c4d8e2;
+@lightBg: #000080;
+@darkAccent: #8ec5e0;
+@pageWidth: 990px;
+@fontColor: #ffffff;
+@fontColorDark: #000000;
+@headerFont: 'CAESAR', sans-serif;
+@navFont: 'Helvetica Neue', sans-serif;
+.adSpaceElement {
+	list-style-type: none;
+	width:180px;
+	min-height:150px;
+	background-color:#ffffff;
+	margin-bottom: 20px;
+}
+::selection {background: @accentColor;}
+.button {
+	background: #c4d8e2; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M0ZDhlMiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2M0ZDhlMiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iIzhlYzVlMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4ZWM1ZTAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #c4d8e2 0%, #c4d8e2 50%, #8ec5e0 51%, #8ec5e0 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c4d8e2), color-stop(50%,#c4d8e2), color-stop(51%,#8ec5e0), color-stop(100%,#8ec5e0)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c4d8e2 0%,#c4d8e2 50%,#8ec5e0 51%,#8ec5e0 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c4d8e2 0%,#c4d8e2 50%,#8ec5e0 51%,#8ec5e0 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c4d8e2 0%,#c4d8e2 50%,#8ec5e0 51%,#8ec5e0 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c4d8e2 0%,#c4d8e2 50%,#8ec5e0 51%,#8ec5e0 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4d8e2', endColorstr='#8ec5e0',GradientType=0 ); /* IE6-8 */
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border:1px solid @accentColor;
+	color: @fontColorDark;
+	padding:5px 15px;
+	text-align:center;
+	font-weight:bold;
+	&:focus {outline: none!important;}
+	&:hover {
+		background: #8ec5e0; /* Old browsers */
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhlYzVlMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjQ5JSIgc3RvcC1jb2xvcj0iIzhlYzVlMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2M0ZDhlMiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjNGQ4ZTIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+		background: -moz-linear-gradient(top,  #8ec5e0 0%, #8ec5e0 49%, #c4d8e2 50%, #c4d8e2 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8ec5e0), color-stop(49%,#8ec5e0), color-stop(50%,#c4d8e2), color-stop(100%,#c4d8e2)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #8ec5e0 0%,#8ec5e0 49%,#c4d8e2 50%,#c4d8e2 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #8ec5e0 0%,#8ec5e0 49%,#c4d8e2 50%,#c4d8e2 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #8ec5e0 0%,#8ec5e0 49%,#c4d8e2 50%,#c4d8e2 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #8ec5e0 0%,#8ec5e0 49%,#c4d8e2 50%,#c4d8e2 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec5e0', endColorstr='#c4d8e2',GradientType=0 ); /* IE6-8 */
+		border:1px solid @darkAccent;
+		color:@fontColorDark;
+	}
+}
+.break {
+	background: #000036; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMDAzNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzAwMDAxNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMzYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #000036 0%, #000014 50%, #000036 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000036), color-stop(50%,#000014), color-stop(100%,#000036)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #000036 0%,#000014 50%,#000036 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #000036 0%,#000014 50%,#000036 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #000036 0%,#000014 50%,#000036 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #000036 0%,#000014 50%,#000036 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000036', endColorstr='#000036',GradientType=0 ); /* IE6-8 */
+
+	min-height:65px;
+	text-align:center;
+	padding-top:15px!important;
+
+}
+.centerDiv {margin:0 auto;}
+body {
+	 background-color:@bgColor;
+	 color: @fontColor;
+}
+.container {
+	width: @pageWidth;
+	padding:0;
+	.centerDiv; 
+	-webkit-box-shadow: 0px 0px 15px 5px @accentColor; 
+	-moz-box-shadow: 0px 0px 15px 5px @accentColor; 
+	box-shadow: 0px 0px 15px 5px @accentColor;
+	section, nav {padding:0 15px;}
+	header {
+		.pageTitle {
+			h1 {
+				text-align:center;
+				font-family: @headerFont;
+				font-size: 560%;
+				color: @accentColor;
+			}
+		}
+		#headerImage {
+			z-index:-999;
+			width:100%;
+			position:relative;
+			margin-top:-113px;
+			content: url('/teamcalbaseball/wp-content/themes/teamcalbaseball/images/headerImage.png');
+		}
+	}
+	.primary-navigation {
+	float:none!important;
+		li:hover > a {
+			text-decoration: none;
+			background-color:@accentColor;
+			color:@fontColorDark;
+
+		}
+		ul ul {
+			background-color:@accentColor;
+			color:@fontColorDark;
+			li {
+				border-bottom:1px solid @fontColorDark;
+				&:hover {background-color:@darkAccent;}
+				a {
+					color: @fontColorDark;
+					&:hover {
+						text-decoration: none;
+						background-color:@darkAccent;
+					}
+				}
+			}
+		}
+	}
+	.site-navigation {
+		.current-menu-item > a,  .current-menu-ancestor > a {
+			color:@accentColor;
+		}
+
+	}
+	.tcbNav	{
+		font-family: "Helvetica Neue"; 
+		font-weight:300;
+		color:@accentColor; 
+		font-size:14px;
+		float:left;
+		li {
+			display: inline-block;
+			list-style-type: none;
+		}
+		.searchForm {
+			float:right;
+			background: darken(@bgColor, 30%);
+			color: @accentColor;
+		}
+	}
+	#ticker {
+		height:100px;
+		width:100%;
+		.marquee {
+		  display: inline-block;
+		  width:960px;
+		  background: @bgColor;
+		  color: @accentColor;
+		  overflow: hidden;
+		  border: 1px solid #ccc;
+		  border-left: 5px solid #ffffff;
+		  border-right: 5px solid #ffffff;
+		  a { 
+		  	color: @accentColor; text-decoration:none;
+		  	&:hover {
+		  		text-decoration:underline;
+		  	}
+		  }
+		}
+		.popout {
+			display: inline-block;
+			margin-left: 30px;
+			margin-top: 40px;
+			height: auto;
+			width: 70px;
+			vertical-align: top;
+		}
+		.playerScroll {
+		margin:10px 0;
+		display:inline-block;
+		font-size:11px;
+		line-height:.75em;
+		}
+	}
+	#featuredNews {
+		height:400px;
+		.slider {
+			max-width:480px;
+			display: inline-block;
+		}
+		.featuredNews {
+		float:right;
+		width:270px;
+			ul {
+				li {
+					border-bottom:1px solid @accentColor;
+			 		list-style-type: none;
+			 	}
+			}
+		}
+		div.featuredNewsAds {
+			ul.featuredNewsAds {
+				li {
+					.adSpaceElement;
+				}
+			}
+			float:right;
+		}
+	}
+
+}
+.pageNavigator {
+	position:fixed; 
+	z-index:9999; 
+	width:90%;
+	margin-left:80%; 
+	color: #ffffff;
+	ul {
+		li {
+		span.revealText {
+			display: none;
+		}
+		}
+	}
+}
+#blogArea {
+	ul {
+		width:80%;
+		vertical-align:top;
+		margin:0px!important;
+		display: inline-block;
+		li {
+			vertical-align:top;
+			width:32%;
+			list-style-type: none;
+			display:inline-block;
+			a {
+			}
+			.blogBoxOuter {
+				background-color:@accentColor;
+				padding:5px;
+				margin:5px 0;
+				a {
+					.blogBoxInner {
+					border: 1px solid @bgColor;
+					}
+					p {
+						color: darken(@bgColor, 40%);
+						font-size:11px!important;
+					}
+				}
+			}
+		}
+	}
+	ul:nth-child(2) {
+		width:19%;
+		li {
+			.adSpaceElement;
+		}
+	}
+}
+#signUp {
+color: @bgColor;
+background: #ffffff;
+padding:20px;
+min-height:340px;
+	.signUpForm {width:46%; display: inline-block; vertical-align:top;
+	h3 {font-family:@headerFont; font-size: 48px;}
+	#signUpFormSubmit {height:74px; border:none; width:100%;}}
+	.signUpFormImage {width:49%; display: inline-block;
+	img {vertical-align: top!important;}}
+}
+
+#tcbPage {
+	padding:30px;
+	color: @bgColor;
+	background-color: #ffffff;
+	.row {margin-bottom:20px;
+	.col-lg-3, .col-lg-4, .col-lg-6, .col-lg-8, .col-lg-9, .col-lg-12 {float:none!important; display:inline; 
+	input {border:1px solid @bgColor;}}
+	}
+	}
+
+footer#colophon {background:@accentColor; min-height:200px; color: @bgColor; padding:20px;}
+.bx-wrapper {max-width:100%!important;}
+.bx-viewport {background: @accentColor!important;}
+.resources li {list-style-type: none; display: inline-block; width:290px; height:300px; text-align: center; vertical-align:top;}

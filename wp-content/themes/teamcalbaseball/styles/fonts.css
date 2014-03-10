@@ -1,0 +1,20 @@
+@font-face { 
+	font-family: 'CAESAR'; 
+	src: url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/CAESAR.eot');
+	src: url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/CAESAR.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/CAESAR.woff') format('woff'),
+		 url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/CAESAR.ttf') format('truetype'),
+		 url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/CAESAR.svg#Ceaser') format('svg');
+		 font-weight: normal;
+		 font-style: normal;
+}
+@font-face { 
+	font-family: 'Helvetica Neue'; 
+	src: url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/HelveticaNeueLTStd-Bd_0.eot');
+	src: url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/HelveticaNeueLTStd-Bd_0.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/HelveticaNeueLTStd-Bd_0.woff') format('woff'),
+		 url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/HelveticaNeueLTStd-Bd_0.ttf') format('truetype'),
+		 url('http://www.harrisonschaen.com/teamcalbaseball/wp-content/themes/teamcalbaseball/fonts/HelveticaNeueLTStd-Bd_0.svg#HelveticaNeueLTStd-Bd_0') format('svg');
+		 font-weight: 300;
+		 font-style: normal;
+}
