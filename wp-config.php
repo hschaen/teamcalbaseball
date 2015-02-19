@@ -18,16 +18,16 @@
 /** The name of the database for WordPress */
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home/content/45/12225345/html/teamcalbaseball/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'teamcalbaseball');
+define('DB_NAME', '***');
 
 /** MySQL database username */
-define('DB_USER', 'teamcalbaseball');
+define('DB_USER', '***');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'TeamCB123!');
+define('DB_PASSWORD', '***!');
 
 /** MySQL hostname */
-define('DB_HOST', 'teamcalbaseball.db.12225345.hostedresource.com');
+define('DB_HOST', '***');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
